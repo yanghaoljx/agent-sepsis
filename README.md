@@ -1,10 +1,10 @@
 # Sepsis Clinical Decision Support System (Sepsis-CDSS)
 
 <!-- 左右并排，保持两张图片大小一致 -->
-<p align="center">
-  <img src="img/1.png" alt="Sepsis-CDSS Overview" width="45%" style="object-fit: contain;" />
-  <img src="img/2.png" alt="Sepsis-CDSS Workflow" width="45%" style="object-fit: contain;" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="img/1.png" alt="Sepsis-CDSS Overview" style="width: 45%; object-fit: cover;" />
+  <img src="img/2.png" alt="Sepsis-CDSS Workflow" style="width: 45%; object-fit: cover;" />
+</div>
 **Sepsis-CDSS** is a web-based Clinical Decision Support System powered by a LangGraph agent. It provides real-time patient data analysis, AI-assisted guidance, and interactive session management.
 
 ---
